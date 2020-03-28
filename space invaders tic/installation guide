@@ -1,0 +1,50 @@
+                                                      ******************
+                                                      INSTALLATION GUIDE
+                                                      ******************
+
+
+WINDOWS/LINUX:
+
+Open the goddamn html file(space invaders.tic.html) located in
+space invaders/space invaders win,linux in your desired browser.
+
+                             OR
+
+1. Download the TIC80 software from the TIC80 website
+   https://tic.computer/ .
+
+2. Run the space invaders.tic application located in 
+   space invaders/space invaders win,linux. 
+
+CONTROLS:
+ 
+arrow keys - move the ship
+z key          -  shoot
+
+
+
+ANDROID:
+
+1. Download the TIC80 app from the google playstore.
+
+2. Cut/copy the space invaders.tic file from the downloaded folder space invaders/space invaders android.
+
+3. Paste it in TIC80 folder in your phone(TIC80 folder is usually located in
+   Android/data/com.nesbox.tic/files/TIC80).
+
+4. open TIC80 app.
+
+5. Type the command 'load space invaders' and press enter.
+
+6. After the cart is successfully loaded type the command 'Run' and press enter.
+
+7. Slay Aliens!!
+
+CONTROLS:
+d-pad - move the ship
+z key  - shoot
+( for some reason TIC 80 android has a different set of keys
+   so z key is A,
+   a key is X,
+   s key is Y
+   x key is B)
